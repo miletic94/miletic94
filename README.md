@@ -41,12 +41,12 @@ Currently, I'm working on my multiplayer game, where I get to combine my love fo
 
 ### Game Development
 
-<h3><a href="https://www.miletic94.github.io/kitchen-chaos">Kitchen Chaos</a></h3>
+<h3><a href="https://miletic94.github.io/kitchen-chaos/">Kitchen Chaos</a></h3>
 
 <div>
-<img src="./kitchen-chaos-ss/ss-1.png" width="200">
-<img src="./kitchen-chaos-ss/ss-2.png" width="200">
-<img src="./kitchen-chaos-ss/ss-3.png" width="200">
+    <img src="./kitchen-chaos/ss-1.PNG" width="200">
+    <img src="./kitchen-chaos/ss-2.PNG" width="200">
+    <img src="./kitchen-chaos/ss-3.PNG" width="200">
 </div>
 <p>I built this game to gain overview of game development in <b>Unity</b>.</p>
 <p>I've got high overview of camera, animations, scenes, input system, UI, prefabs, scriptable objects, music and sound effects...</p>
