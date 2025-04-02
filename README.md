@@ -1,9 +1,9 @@
 <h1> Nemanja Miletić - Backend Engineer and Aspiring Game Developer </h1>
 
 <div>
-<img src="./avatar.png" width="150"/>
-<div text-align="center">
-<div color="red">
+    <img src="./avatar.png" width="150"/>
+    <div text-align="center">
+    <div color="red">
 <h4>
 Hi, I'm Nemanja! 
 Now I'm static, but who knows... 
@@ -13,7 +13,7 @@ Maybe when you visit next time I will be part of a game
 
 ### What I Do
 
-I'm a backend engineer and my main stack consists of <b>TypeScript, Node.js, NestJS, and PostgreSQL</b>. I enjoy designing scalable, efficient systems and solving challenging problems with <b>creative solutions</b>.
+<p style="font-size: 18px;">I'm a backend engineer and my main stack consists of <b>TypeScript, Node.js, NestJS, and PostgreSQL</b>. I enjoy designing scalable, efficient systems and solving challenging problems with <b>creative solutions</b>.</p>
 
 Currently, I'm working on my multiplayer game, where I get to combine my love for <b>math, problem-solving, and game development</b>.
 
