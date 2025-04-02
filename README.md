@@ -20,9 +20,9 @@ Currently, I'm working on my multiplayer game, where I get to combine my love fo
 ### Backend Development
 
 <div>
-    <h4>
+    <h3>
         <a href="https://honestdig.io/">Honestdig (AIM)</a>
-    </h4>
+    </h3>
     <div>
         <img src="./honestdig//honestdig-ss.png" width="300">
     </div>
@@ -30,9 +30,9 @@ Currently, I'm working on my multiplayer game, where I get to combine my love fo
 </div>
 
 <div>
-    <h4>
+    <h3>
         <a href="https://carbooker.rs/en">Carbooker</a>
-    </h4>
+    </h3>
     <div>
         <img src="./carbooker//carbooker-ss.PNG" width="300">
     </div>
@@ -41,7 +41,7 @@ Currently, I'm working on my multiplayer game, where I get to combine my love fo
 
 ### Game Development
 
-<a href="https://www.miletic94.github.io/kitchen-chaos"><h3>Kitchen Chaos</h3></a>
+<h3><a href="https://www.miletic94.github.io/kitchen-chaos">Kitchen Chaos</a></h3>
 
 <div>
 <img src="./kitchen-chaos-ss/ss-1.png" width="200">
