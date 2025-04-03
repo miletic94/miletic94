@@ -42,19 +42,30 @@ Currently, I'm working on my multiplayer game, where I get to combine my love fo
 ### Game Development
 
 <h3><a href="https://miletic94.github.io/kitchen-chaos/">Kitchen Chaos</a></h3>
-
 <div>
     <img src="./kitchen-chaos/ss-1.PNG" width="200">
     <img src="./kitchen-chaos/ss-2.PNG" width="200">
     <img src="./kitchen-chaos/ss-3.PNG" width="200">
 </div>
+
+> This game is for PC only. It isn't playable on other devices
+
 <p>I built this game to gain overview of game development in <b>Unity</b>.</p>
 <p>I've got high overview of camera, animations, scenes, input system, UI, prefabs, scriptable objects, music and sound effects...</p>
 <p>I couldn't have done it alone. Ask me about it.</p>
 <h3>Smooth curves</h3>
 
-<p>TBD: Examples Before and After solving the problem</p>
+<h5>This is what I've got out of the box</h5>
+<div>
+    <img src="./smooth-curves/before.PNG" width="300"/>
+    <img src="./smooth-curves/before-triangles.PNG" width="300"/>
+</div>
+<h5>This is what I've got after applying some math magic</h5>
+<div>
+    <img src="./smooth-curves/after.PNG" width="300"/>
+    <img src="./smooth-curves/after-triangles.PNG" width="300"/>
+</div>
+
 <p>Built <b>mathematical model</b> to solve the problem of self-intersecting meshes and jagged curves in <b>3D traffic management game</b></p>
 <p>It involved working with <b>Cubic Bezier Curves</b>, <b>Linear Algebra</b> and <b>Spline Tool</b></p>
 <p>TBD: Blog post about the problem and solution</p>
-### Backend Professional Projects
