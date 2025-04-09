@@ -68,4 +68,4 @@ Currently, I'm working on my multiplayer game, where I get to combine my love fo
 
 <p>Built <b>mathematical model</b> to solve the problem of self-intersecting meshes and jagged curves in <b>3D traffic management game</b></p>
 <p>It involved working with <b>Cubic Bezier Curves</b>, <b>Linear Algebra</b> and <b>Spline Tool</b></p>
-<a href="https://miletic94.github.io/smoothing-guiding-curves/">Click to read blog post about the problem and solution</p>
+<a href="https://miletic94.github.io/smoothing-guiding-curves/">Click to read blog post about the problem and solution</a>
