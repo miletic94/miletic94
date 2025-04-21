@@ -1,7 +1,7 @@
 <h1> Nemanja Miletić - Backend Engineer and Aspiring Game Developer </h1>
 
 <div>
-    <img src="./avatar.png" width="150"/>
+    <img src="./animation.gif" onerror="this.onerror=null; this.src='./avatar.png';"/>
     <div text-align="center">
     <div color="red">
 <h4>
